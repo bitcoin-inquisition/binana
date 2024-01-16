@@ -10,6 +10,7 @@ may be identified by appending "-RRR", the three digit revision number.
 | Identifier    | Status     | Name
 |:--------------|:-----------|:-----
 | BIN-2024-0001 | Draft      | [`OP_CAT`](2024/BIN-2024-0001.md)
+| BIN-2024-0002 | Active     | [Heretical Deployments](2024/BIN-2024-0002.md)
 
 ## Notes
 
