@@ -11,6 +11,8 @@ may be identified by appending "-RRR", the three digit revision number.
 |:--------------|:-----------|:-----
 | BIN-2024-0001 | Draft      | [`OP_CAT`](2024/BIN-2024-0001.md)
 | BIN-2024-0002 | Active     | [Heretical Deployments](2024/BIN-2024-0002.md)
+| BIN-2024-0003 | Draft      | [`CHECKSIGFROMSTACK`](2024/BIN-2024-0003.md)
+| BIN-2024-0004 | Draft      | [`OP_INTERNALKEY`](2024/BIN-2024-0004.md)
 
 ## Notes
 
