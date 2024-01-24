@@ -3,7 +3,7 @@
 This repo assigns unique identifiers to proposed changes to Bitcoin.
 Identifiers take the form "BIN-YYYY-NNNN" where YYYY is a four digit year,
 and NNNN is a four digit identifier. A particular revision of a proposal
-may be identified by appending "-RRR", the three digit revision number.
+may be identified by appending ".RRR", the three digit revision number.
 
 ## 2024 Identifiers
 
@@ -16,6 +16,8 @@ may be identified by appending "-RRR", the three digit revision number.
 | BIN-2024-0005 | Info       | [Bitcoin Related Specifications](2024/BIN-2024-0005.md)
 
 ## Notes
+
+Proposal identifiers may be minified by omitting the leading dash, using a two digit year, and omitting leading zeroes, eg BIN-2024-0001 becomes BIN24-1, and its third revision, BIN-2024-0001.003 would become BIN24-1.3.
 
 Proposal identifiers can be converted into a 27 bit numeric identifier as follows:
 
