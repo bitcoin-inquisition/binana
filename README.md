@@ -14,6 +14,7 @@ may be identified by appending ".RRR", the three digit revision number.
 | BIN-2024-0003 | Draft      | [`CHECKSIGFROMSTACK`](2024/BIN-2024-0003.md)
 | BIN-2024-0004 | Draft      | [`OP_INTERNALKEY`](2024/BIN-2024-0004.md)
 | BIN-2024-0005 | Info       | [Bitcoin Related Specifications](2024/BIN-2024-0005.md)
+| BIN-2024-0006 | Draft      | [`OP_PAIRCOMMIT`](2024/BIN-2024-0006.md)
 
 ## Notes
 
