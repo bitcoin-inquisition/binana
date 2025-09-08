@@ -9,9 +9,9 @@ may be identified by appending ".RRR", the three digit revision number.
 
 | Identifier    | Status     | Name
 |:--------------|:-----------|:-----
-| BIN-2016-0118 | Draft      | [`SIGHASH_ANYPREVOUT` for Taproot Scripts](2016/BIN-2016-0118.md)
-| BIN-2016-0119 | Draft      | [`CHECKTEMPLATEVERIFY`](2016/BIN-2016-0119.md)
-| BIN-2024-0001 | Draft      | [`OP_CAT`](2024/BIN-2024-0001.md)
+| BIN-2016-0118 | Active     | [`SIGHASH_ANYPREVOUT` for Taproot Scripts](2016/BIN-2016-0118.md)
+| BIN-2016-0119 | Active     | [`CHECKTEMPLATEVERIFY`](2016/BIN-2016-0119.md)
+| BIN-2024-0001 | Active     | [`OP_CAT`](2024/BIN-2024-0001.md)
 | BIN-2024-0002 | Active     | [Heretical Deployments](2024/BIN-2024-0002.md)
 | BIN-2024-0003 | Draft      | [`CHECKSIGFROMSTACK`](2024/BIN-2024-0003.md)
 | BIN-2024-0004 | Draft      | [`OP_INTERNALKEY`](2024/BIN-2024-0004.md)
