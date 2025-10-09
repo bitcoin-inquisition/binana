@@ -40,5 +40,5 @@ Status values should be one of:
 
  * **Draft** -- most documents
  * **Complete** -- believed to be complete with no further changes needed/expected
- * **Deployed** -- actively in use on Bitcoin mainnet
+ * **Deployed** -- actively in use (including on mainnet, if targeted at mainnet)
  * **Closed** -- no longer relevant; only of historical interest
